@@ -1,0 +1,25 @@
+body, table {
+	font-family: Helvetica, Arial;
+	color: #555;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+tr:hover {background-color: #F5F5F5; cursor: default;}
+
+th, td {
+	padding: 4px 15px;
+	border: 1px solid #ccc;
+}
+
+th {
+	font-weight: bold;
+	border-bottom: 2px solid #BBB;
+	background: url(img/tablesorter-normal.gif) no-repeat 100% 50% #eee;
+}
+.asc {
+	background: url(img/tablesorter-asc.gif) no-repeat 100% 50% #eee;
+}
+.desc {
+	background: url(img/tablesorter-desc.gif) no-repeat 100% 50% #eee;
+}
