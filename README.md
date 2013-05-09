@@ -1,7 +1,10 @@
 tablesorter
 ===========
 
-The lightweightest jQuery table sorter plugin.
+The lighttest weight jQuery table sorter plugin.
+
 Design by linkarys.
-No right reserved!
-2013/05/09
+
+No right reserved!!
+
+Date: 2013/05/09
